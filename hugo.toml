@@ -28,10 +28,10 @@ theme = 'PaperMod'
 
   # Custom assets for branding
   [params.assets]
-    favicon = "/favicon.svg"
-    favicon16x16 = "/favicon.svg"
-    favicon32x32 = "/favicon.svg"
-    apple_touch_icon = "/logo.svg"
+    favicon = "favicon.svg"
+    favicon16x16 = "favicon.svg"
+    favicon32x32 = "favicon.svg"
+    apple_touch_icon = "favicon.svg"
 
   # Contact form configuration
   # Configured via GitHub Secret FORMSPREE_ENDPOINT (see SETUP_CONTACT_FORM.md)
