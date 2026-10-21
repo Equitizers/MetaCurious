@@ -53,6 +53,7 @@
 
 /* Custom header styling */
 .header .nav .logo {
+    flex-wrap: nowrap;
     font-weight: 700;
     font-size: 1.5rem;
     letter-spacing: -0.5px;
@@ -79,7 +80,7 @@
     display: inline-block;
     width: var(--logo-icon-width);
     height: var(--logo-icon-width);
-    background-image: url('/logo.avif');
+    background-image: url('../../logo.avif');
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
